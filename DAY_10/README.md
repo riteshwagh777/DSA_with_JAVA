@@ -1,4 +1,4 @@
-DAY10 of 60DAYS of DSA with JAVA 
+DAY10 of 90DAYS of DSA with JAVA 
 -------------------------------------- 
 Core OOPs pillars: Encapsulation, Inheritance, Polymorphism, Abstraction
 
